@@ -1,0 +1,15 @@
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\bin\Debug\net6.0\Projeto_Nota_Teste.exe
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\bin\Debug\net6.0\Projeto_Nota_Teste.deps.json
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\bin\Debug\net6.0\Projeto_Nota_Teste.runtimeconfig.json
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\bin\Debug\net6.0\Projeto_Nota_Teste.dll
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\bin\Debug\net6.0\Projeto_Nota_Teste.pdb
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\obj\Debug\net6.0\Projeto_Nota_Teste.csproj.AssemblyReference.cache
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\obj\Debug\net6.0\Projeto_Nota_Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\obj\Debug\net6.0\Projeto_Nota_Teste.AssemblyInfoInputs.cache
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\obj\Debug\net6.0\Projeto_Nota_Teste.AssemblyInfo.cs
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\obj\Debug\net6.0\Projeto_Nota_Teste.csproj.CoreCompileInputs.cache
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\obj\Debug\net6.0\Projeto_Nota_Teste.dll
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\obj\Debug\net6.0\refint\Projeto_Nota_Teste.dll
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\obj\Debug\net6.0\Projeto_Nota_Teste.pdb
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\obj\Debug\net6.0\Projeto_Nota_Teste.genruntimeconfig.cache
+D:\Projetos VS\Projeto_Nota_Teste\Projeto_Nota_Teste\obj\Debug\net6.0\ref\Projeto_Nota_Teste.dll

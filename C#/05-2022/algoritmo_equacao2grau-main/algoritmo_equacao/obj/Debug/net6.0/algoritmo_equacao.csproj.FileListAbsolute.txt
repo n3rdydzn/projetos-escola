@@ -1,0 +1,15 @@
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\bin\Debug\net6.0\algoritmo_equacao.exe
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\bin\Debug\net6.0\algoritmo_equacao.deps.json
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\bin\Debug\net6.0\algoritmo_equacao.runtimeconfig.json
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\bin\Debug\net6.0\algoritmo_equacao.dll
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\bin\Debug\net6.0\algoritmo_equacao.pdb
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\obj\Debug\net6.0\algoritmo_equacao.csproj.AssemblyReference.cache
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\obj\Debug\net6.0\algoritmo_equacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\obj\Debug\net6.0\algoritmo_equacao.AssemblyInfoInputs.cache
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\obj\Debug\net6.0\algoritmo_equacao.AssemblyInfo.cs
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\obj\Debug\net6.0\algoritmo_equacao.csproj.CoreCompileInputs.cache
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\obj\Debug\net6.0\algoritmo_equacao.dll
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\obj\Debug\net6.0\refint\algoritmo_equacao.dll
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\obj\Debug\net6.0\algoritmo_equacao.pdb
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\obj\Debug\net6.0\algoritmo_equacao.genruntimeconfig.cache
+D:\Projetos VS\algoritmo_equacao\algoritmo_equacao\obj\Debug\net6.0\ref\algoritmo_equacao.dll

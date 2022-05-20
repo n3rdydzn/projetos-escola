@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+body{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    margin: 0;
+    background-image: url('https://cdn.discordapp.com/attachments/889233196091342920/974425095466520576/pizza-back.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+*{
+    color: White;
+    box-sizing: border-box;
+}
+input{
+    color: black;
+}
+.info h1{
+    font-size: 35px;
+    font-family: 'Quicksand';
+    padding: 10px;
+}
+.info{
+    color: black;
+    margin-top: 350px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 600px;
+    height: 300px;
+    box-shadow: black 10px 10px 20px;
+}
+.form{
+    display: flexbox;
+    justify-content: center;
+    margin-top: 20px;
+}
+.form label{
+    color:black;
+    font-family: 'Quicksand';
+}
+.titulo h1{
+    color: black;
+}
+.titulo a{
+    display: flex;
+    color: black;
+    margin-top: -30px;
+    font-family: 'Quicksand';
+}
+.titulo{
+    margin-top: 35px;
+    margin-right: 10px;
+    letter-spacing: 3px;
+
+}
+.enviar{
+    display: flex;
+    margin-top: 5px;
+}
+.logo{
+    display: flex;
+    margin-bottom: -30px;
+    content: url("https://cdn.discordapp.com/attachments/889233196091342920/974436667740004352/icon-pizza.png");
+}
+.numero{
+    width: 45px;
+}

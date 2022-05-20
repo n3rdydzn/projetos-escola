@@ -1,0 +1,32 @@
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\bin\Debug\net6.0\Super Mercado.exe
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\bin\Debug\net6.0\Super Mercado.deps.json
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\bin\Debug\net6.0\Super Mercado.runtimeconfig.json
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\bin\Debug\net6.0\Super Mercado.dll
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\bin\Debug\net6.0\ref\Super Mercado.dll
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\bin\Debug\net6.0\Super Mercado.pdb
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\obj\Debug\net6.0\Super Mercado.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\obj\Debug\net6.0\Super Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\obj\Debug\net6.0\Super Mercado.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\obj\Debug\net6.0\Super Mercado.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\obj\Debug\net6.0\Super Mercado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\obj\Debug\net6.0\Super Mercado.dll
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\obj\Debug\net6.0\ref\Super Mercado.dll
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\obj\Debug\net6.0\Super Mercado.pdb
+C:\Users\Usuario\source\repos\Super Mercado\Super Mercado\obj\Debug\net6.0\Super Mercado.genruntimeconfig.cache
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\bin\Debug\net6.0\Super Mercado.exe
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\bin\Debug\net6.0\Super Mercado.deps.json
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\bin\Debug\net6.0\Super Mercado.runtimeconfig.json
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\bin\Debug\net6.0\Super Mercado.dll
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\bin\Debug\net6.0\Super Mercado.pdb
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\obj\Debug\net6.0\Super Mercado.csproj.AssemblyReference.cache
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\obj\Debug\net6.0\Super Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\obj\Debug\net6.0\Super Mercado.AssemblyInfoInputs.cache
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\obj\Debug\net6.0\Super Mercado.AssemblyInfo.cs
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\obj\Debug\net6.0\Super Mercado.csproj.CoreCompileInputs.cache
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\obj\Debug\net6.0\Super Mercado.dll
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\obj\Debug\net6.0\refint\Super Mercado.dll
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\obj\Debug\net6.0\Super Mercado.pdb
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\obj\Debug\net6.0\Super Mercado.genruntimeconfig.cache
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\obj\Debug\net6.0\ref\Super Mercado.dll
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\obj\Debug\net6.0\Super_Mercado.Properties.Resources.resources
+C:\Users\N3rdy\Desktop\algoritmo_supermercado-main\Super Mercado\obj\Debug\net6.0\Super Mercado.csproj.GenerateResource.cache

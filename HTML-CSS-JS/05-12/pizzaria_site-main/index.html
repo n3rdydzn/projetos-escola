@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizzaria Don Perro</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    
+    <div class="info">
+        <div class="titulo">
+            <center><img class="logo" width="80"></center>
+            <h1>Pizzaria Don Perro</h1>
+            <hr>
+            <a>Tomate do Bom, massa melhor ainda!</a><br>
+        </div>
+        <div class="form">
+            <form action="pedido.html">
+                <label>Nome:</label><br>
+                <input type="text" id="cliente" placeholder="João" required><br>
+                <label>Endereço:</label><br>
+                <input type="text" placeholder="Rua dos Papagaios" required><br>
+                <label>Bairro:</label><br>
+                <input type="text" placeholder="Centro" required><br>
+                <label>Numero:</label><br>
+                <input type="number" placeholder="000" class="numero" required><br>
+                <label>CEP</label><br>
+                <input type="text" placeholder="00000-000" maxlength="8" required><br>
+                <center><input type="submit" class="enviar" value="Cadastrar" onclick="hello();"></center>
+            </form>
+        </section>
+    </div>
+    <!--JavaScript-->
+    <script type="text/javascript" src="js/particles.min.js"></script>
+    <script type="text/javascript" src="js/custom.js"></script>
+    <script type="text/javascript" src="js/bem-vindo.js"></script>
+</body>
+</html>

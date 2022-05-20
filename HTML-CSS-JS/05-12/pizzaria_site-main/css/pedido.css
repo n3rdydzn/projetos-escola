@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.nome-pizzaria{
+    font-family: 'Quicksand';
+    font-size: 30px;
+    margin-left: 30px;
+}
+hr{
+    margin-top: 15px;
+}
+.navbar{
+    top: 0;
+    position: sticky;
+    background-color: #462828;
+    color: white;
+    height: 50px;
+}
+a{
+    margin-bottom: 999px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.navlist li{
+    display: inline;
+    justify-content: end;
+}
+.navlist a{
+    color: gray;
+    text-decoration: none;
+}
+.navlist a:hover{
+    color: rgb(236, 6, 6);
+    text-decoration: underline;
+}
+.navbaritens{
+    display: flex;
+    justify-content: end;
+    margin-top: -22px;
+    gap: 20px;
+    margin-right: 100px;
+}

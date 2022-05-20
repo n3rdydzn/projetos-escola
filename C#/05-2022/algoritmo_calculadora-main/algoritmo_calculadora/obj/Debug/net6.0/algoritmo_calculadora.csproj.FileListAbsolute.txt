@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\bin\Debug\net6.0\algoritmo_calculadora.exe
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\bin\Debug\net6.0\algoritmo_calculadora.deps.json
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\bin\Debug\net6.0\algoritmo_calculadora.runtimeconfig.json
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\bin\Debug\net6.0\algoritmo_calculadora.dll
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\bin\Debug\net6.0\ref\algoritmo_calculadora.dll
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\bin\Debug\net6.0\algoritmo_calculadora.pdb
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\obj\Debug\net6.0\algoritmo_calculadora.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\obj\Debug\net6.0\algoritmo_calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\obj\Debug\net6.0\algoritmo_calculadora.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\obj\Debug\net6.0\algoritmo_calculadora.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\obj\Debug\net6.0\algoritmo_calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\obj\Debug\net6.0\algoritmo_calculadora.dll
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\obj\Debug\net6.0\ref\algoritmo_calculadora.dll
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\obj\Debug\net6.0\algoritmo_calculadora.pdb
+C:\Users\Usuario\source\repos\algoritmo_calculadora\algoritmo_calculadora\obj\Debug\net6.0\algoritmo_calculadora.genruntimeconfig.cache
