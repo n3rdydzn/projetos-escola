@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "algoritmo_tabuada/1.0.0": {
+        "runtime": {
+          "algoritmo_tabuada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algoritmo_tabuada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
