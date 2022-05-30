@@ -1,0 +1,15 @@
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\bin\Debug\net6.0\algoritmo_tabuada.exe
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\bin\Debug\net6.0\algoritmo_tabuada.deps.json
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\bin\Debug\net6.0\algoritmo_tabuada.runtimeconfig.json
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\bin\Debug\net6.0\algoritmo_tabuada.dll
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\bin\Debug\net6.0\ref\algoritmo_tabuada.dll
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\bin\Debug\net6.0\algoritmo_tabuada.pdb
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\obj\Debug\net6.0\algoritmo_tabuada.csproj.AssemblyReference.cache
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\obj\Debug\net6.0\algoritmo_tabuada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\obj\Debug\net6.0\algoritmo_tabuada.AssemblyInfoInputs.cache
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\obj\Debug\net6.0\algoritmo_tabuada.AssemblyInfo.cs
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\obj\Debug\net6.0\algoritmo_tabuada.csproj.CoreCompileInputs.cache
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\obj\Debug\net6.0\algoritmo_tabuada.dll
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\obj\Debug\net6.0\ref\algoritmo_tabuada.dll
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\obj\Debug\net6.0\algoritmo_tabuada.pdb
+D:\Iago\Visual Studio\Projetos\algoritmo_tabuada\algoritmo_tabuada\obj\Debug\net6.0\algoritmo_tabuada.genruntimeconfig.cache

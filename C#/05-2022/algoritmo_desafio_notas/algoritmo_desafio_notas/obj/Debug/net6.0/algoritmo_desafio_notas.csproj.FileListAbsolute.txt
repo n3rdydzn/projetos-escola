@@ -1,0 +1,15 @@
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\bin\Debug\net6.0\algoritmo_desafio_notas.exe
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\bin\Debug\net6.0\algoritmo_desafio_notas.deps.json
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\bin\Debug\net6.0\algoritmo_desafio_notas.runtimeconfig.json
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\bin\Debug\net6.0\algoritmo_desafio_notas.dll
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\bin\Debug\net6.0\ref\algoritmo_desafio_notas.dll
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\bin\Debug\net6.0\algoritmo_desafio_notas.pdb
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\obj\Debug\net6.0\algoritmo_desafio_notas.csproj.AssemblyReference.cache
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\obj\Debug\net6.0\algoritmo_desafio_notas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\obj\Debug\net6.0\algoritmo_desafio_notas.AssemblyInfoInputs.cache
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\obj\Debug\net6.0\algoritmo_desafio_notas.AssemblyInfo.cs
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\obj\Debug\net6.0\algoritmo_desafio_notas.csproj.CoreCompileInputs.cache
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\obj\Debug\net6.0\algoritmo_desafio_notas.dll
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\obj\Debug\net6.0\ref\algoritmo_desafio_notas.dll
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\obj\Debug\net6.0\algoritmo_desafio_notas.pdb
+D:\Iago\Visual Studio\Projetos\algoritmo_desafio_notas\algoritmo_desafio_notas\obj\Debug\net6.0\algoritmo_desafio_notas.genruntimeconfig.cache
