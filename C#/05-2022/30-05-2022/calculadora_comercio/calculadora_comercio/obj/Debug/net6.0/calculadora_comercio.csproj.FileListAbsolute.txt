@@ -1,0 +1,30 @@
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\bin\Debug\net6.0\calculadora_comercio.exe
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\bin\Debug\net6.0\calculadora_comercio.deps.json
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\bin\Debug\net6.0\calculadora_comercio.runtimeconfig.json
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\bin\Debug\net6.0\calculadora_comercio.dll
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\bin\Debug\net6.0\ref\calculadora_comercio.dll
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\bin\Debug\net6.0\calculadora_comercio.pdb
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.csproj.AssemblyReference.cache
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.AssemblyInfoInputs.cache
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.AssemblyInfo.cs
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.csproj.CoreCompileInputs.cache
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.dll
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\ref\calculadora_comercio.dll
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.pdb
+D:\Iago\Visual Studio\Projetos\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.genruntimeconfig.cache
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\bin\Debug\net6.0\calculadora_comercio.exe
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\bin\Debug\net6.0\calculadora_comercio.deps.json
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\bin\Debug\net6.0\calculadora_comercio.runtimeconfig.json
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\bin\Debug\net6.0\calculadora_comercio.dll
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\bin\Debug\net6.0\calculadora_comercio.pdb
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.csproj.AssemblyReference.cache
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.AssemblyInfoInputs.cache
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.AssemblyInfo.cs
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.csproj.CoreCompileInputs.cache
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.dll
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\refint\calculadora_comercio.dll
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.pdb
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\calculadora_comercio.genruntimeconfig.cache
+G:\Escola\Tec. Programação e Algoritmo\30-05-2022\calculadora_comercio\calculadora_comercio\obj\Debug\net6.0\ref\calculadora_comercio.dll
